@@ -1,3 +1,4 @@
+// Package egohelper contains helpful code (at least for the writer)
 package egohelper
 
 import (
